@@ -29,7 +29,7 @@ from telegram.constants import ParseMode
 load_dotenv()
 
 # ── Config ────────────────────────────────────────────────────────────────────
-BOT_TOKEN          = os.getenv("BOT_TOKEN", "")
+BOT_TOKEN = "8771834651:AAEbNZnTYk45JiU-KtI5SH0sARAUOtEylFw"
 ETHERSCAN_API_KEY  = os.getenv("ETHERSCAN_API_KEY", "")
 BSCSCAN_API_KEY    = os.getenv("BSCSCAN_API_KEY", "")
 BLOCKCHAIR_API_KEY = os.getenv("BLOCKCHAIR_API_KEY", "")
